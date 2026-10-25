@@ -1,12 +1,13 @@
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,xiaomimobile.com
-DOMAIN-SUFFIX,xiaomiot.com
-DOMAIN-SUFFIX,xiaomitv.com
-DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,ad.xiaomi.com
-DOMAIN-SUFFIX,stat.xiaomi.com
-DOMAIN-SUFFIX,metrics.miui.com
-DOMAIN-SUFFIX,data.miui.com
-DOMAIN-SUFFIX,ad.mi.com
+# === 小米全家桶拦截 ===
+address=/xiaomi.com/
+address=/mi.com/
+address=/miui.com/
+address=/xiaomimobile.com/
+address=/xiaomiot.com/
+address=/xiaomitv.com/
+address=/miwifi.com/
+address=/ad.xiaomi.com/
+address=/stat.xiaomi.com/
+address=/metrics.miui.com/
+address=/data.miui.com/
+address=/ad.mi.com/
