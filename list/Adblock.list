@@ -1,2 +1,15 @@
 # 自定义域名拦截
-DOMAIN,mi.com
+# 小米全部域名（覆盖其所有子域名）
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomimobile.com
+DOMAIN-SUFFIX,xiaomiot.com
+DOMAIN-SUFFIX,xiaomitv.com
+DOMAIN-SUFFIX,miwifi.com
+# 小米广告/统计域名（实际已被上面主域名覆盖，列出以求明确）
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,stat.xiaomi.com
+DOMAIN-SUFFIX,metrics.miui.com
+DOMAIN-SUFFIX,data.miui.com
+DOMAIN-SUFFIX,ad.mi.com
