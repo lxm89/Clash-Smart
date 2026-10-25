@@ -20,8 +20,6 @@ LOG_OUT "拉取 lxm89 自定义广告过滤规则…"
 curl -s https://raw.githubusercontent.com/lxm89/Clash-Smart/refs/heads/main/list/Adblock.list -o /tmp/dnsmasq.d/custom-adblock.conf
 # 广告过滤规则拉取脚本结束
 
-
-
 # 以下是 GitHub520 加速规则拉取脚本  
 # LOG_OUT "拉取 GitHub520 加速规则…"  
 # sed -i '/# GitHub520 Host Start/,/# GitHub520 Host End/d' /etc/hosts  
